@@ -42,6 +42,13 @@ body {
 .biography-details li, .skill-list li {
 	padding-left: 1em;
 }
+.border {
+	border-color: mediumseagreen!important;
+}
+
+.language-progress {
+	background-color: green;
+}
 
 /* Styles for contact icons */
 
