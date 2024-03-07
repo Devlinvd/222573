@@ -1,12 +1,9 @@
 /* Use this file to use your own styles*/
 
-/* Import declaration to use Google Fonts - check https://fonts.google.com/ for details */
-@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400;1,700&display=swap');
-
 /* Styles for the body */
 
 body {
-	font-family: Lato, "Open Sans", Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif""Open Sans", Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
 	color: #FFFFFF;
 	background-color: #F0F0EF;
 }
@@ -23,10 +20,17 @@ body {
 
 .resume-aside {
 	background-color: #7FA88B;
-}
+} 
+
+.customclass {
+    /* Use the Raleway font and add other custom styles */
+    font-family: 'Impact', sans-serif;
+    /* Add any other styles you want to customize */
+    color: #90EE90; 
 
 /* Styles for lists in the document */
 
+}
 .biography-details li::before, .skill-list li::before {
 	content: ">";
 	font-weight: 800;
