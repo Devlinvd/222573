@@ -3,7 +3,7 @@
 /* Styles for the body */
 
 body {
-	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif""Open Sans", Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif"sans-serif;
 	color: #FFFFFF;
 	background-color: #F0F0EF;
 }
@@ -23,8 +23,8 @@ body {
 } 
 
 .customclass {
-    /* Use the Raleway font and add other custom styles */
-    font-family: 'Impact';
+    /* Use the Impact font and add other custom styles */
+    font-family: 'Impact', sans-serif;
     /* Add any other styles you want to customize */
     color: #90EE90; 
 
